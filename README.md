@@ -1,6 +1,6 @@
 
 <a href="https://github.com/yalongwastaken/git-koi">
-  <img src="koi/koi.gif" align="center" width="256" alt="My koi, redrawn every night from the day's activity">
+  <img src="koi/koi.gif" align="center" width="50%" alt="My koi, redrawn every night from the day's activity">
 <a/>
 
 <!--
