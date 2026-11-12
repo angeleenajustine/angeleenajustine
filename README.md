@@ -1,7 +1,8 @@
-
-<a href="https://github.com/yalongwastaken/git-koi">
-  <img src="koi/koi.gif" align="center" width="45%" alt="My koi, redrawn every night from the day's activity">
-</a>
+<p align="center">
+  <a href="https://github.com/yalongwastaken/git-koi">
+    <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from the day's activity">
+  </a>
+</p>
 
 <!--
 **angeleenajustine/angeleenajustine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
